@@ -1,4 +1,4 @@
-package com.yonikal.tools;
+package com.yonikal.tools.utils;
 
 import android.content.Context;
 import android.content.res.Resources;

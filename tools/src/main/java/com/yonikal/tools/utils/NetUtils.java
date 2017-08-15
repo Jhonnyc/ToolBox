@@ -1,4 +1,4 @@
-package com.yonikal.tools;
+package com.yonikal.tools.utils;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayOutputStream;
